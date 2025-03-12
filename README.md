@@ -34,7 +34,7 @@ git clone https://github.com/vaibhavk121/time_table_app.git
 cd time_table_app
 ```
 
-###2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies
 ```sh
 npm install
 
