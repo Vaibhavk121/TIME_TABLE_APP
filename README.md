@@ -13,9 +13,9 @@ _A simple React Native app to view a weekly timetable with an immersive UI._
 ---
 
 ## 📸 Screenshots  
- ![Home Screen](screenshots/home.jpg=400x300) 
+ ![Home Screen](screenshots/home.jpg) 
  ------------------------------------------------
- ![Timetable View](screenshots/timetable.jpg=400x300) 
+ ![Timetable View](screenshots/timetable.jpg) 
 
 🔹 _Click on a day to see its schedule in detail._
 
@@ -38,3 +38,8 @@ cd time_table_app
 ```sh
 npm install
 
+### 3️⃣ Start the App
+```sh
+expo start
+
+📱 Scan the QR code with Expo Go (Android/iOS) or run it on an emulator.
