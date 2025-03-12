@@ -13,9 +13,7 @@ _A simple React Native app to view a weekly timetable with an immersive UI._
 ---
 
 ## 📸 Screenshots  
- <img src="screenshots/home.jpg" alt="Home Screen" width="300"/> 
- 
-<img src="screenshots/timetable.jpg" alt="Home Screen" width="300"/> 
+ <img src="screenshots/home.jpg" alt="Home Screen" width="250"/> <img src="screenshots/timetable.jpg" alt="Home Screen" width="250"/> 
 
 🔹 _Click on a day to see its schedule in detail._
 
