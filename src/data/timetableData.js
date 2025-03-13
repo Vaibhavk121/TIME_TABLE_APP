@@ -5,7 +5,7 @@ export const timetableData = [
       { time: "8:45-9:45", subject: "ML" },
       { time: "9:45-10:45", subject: "JAVA" },
       { time: "10:45-11:00", subject: "Tea Break☕" },
-      { time: "11:00-1:00", subject: "DevOps" },
+      { time: "11:00-1:00", subject: "CC(B1)/DevOps(B2)" },
       { time: "1:00-1:45", subject: "Lunch🍗" },
       { time: "1:45-3:45", subject: "English" },
     ]
@@ -17,15 +17,15 @@ export const timetableData = [
       { time: "9:45-10:45", subject: "CC" },
       { time: "10:45-11:00", subject: "Tea Break ☕" },
       { time: "11:00-12:00", subject: "Open Elective" },
-      { time: "12:00-1:00", subject: "ML" },
+      { time: "12:00-1:00", subject: "ML(B2)/DevOps(B1)" },
       { time: "1:00-1:45", subject: "Lunch🍗" },
-      { time: "1:45-3:45", subject: "ML" },
+      { time: "1:45-3:45", subject: "ML(Lab)" },
     ]
   },
   {
     day: "Wed",
     periods: [
-      { time: "8:45-9:45", subject: "CC" },
+      { time: "8:45-9:45", subject: "CC(B2)/ML(B1)" },
       { time: "10:45-11:00", subject: "Tea Break ☕" },
       { time: "11:00-12:00", subject: "ML" },
       { time: "12:00-1:00", subject: "CC" },
